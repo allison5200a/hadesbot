@@ -1,45 +1,45 @@
 const cara = (pushname, prefix, botName, ownerName) => { 
-	return `🔰 -----[ *PANDUAN PENGGUNAAN ${botName}* ]----- 🔰
-Hallo, ${pushname} 👋
-Berikut adalah cara penggunaan *${botName}*
+	return `🔰 -----[ *GUIA DE USO ${botName}* ]----- 🔰
+Óla, ${pushname} 👋
+Aqui está como usá-lo *${botName}*
          ────────────────
-Kalo gak paham tuh baca dulu -_-
+Se você não entende, leia primeiro -_-
          ────────────────
 ➸ *${prefix}sticker*
-Kirim gambar/video dengan caption sticker
+Envie fotos/vídeos com a legenda : ${prefix}sticker
 ➸ *${prefix}ttp*
-Text to sticker contoh : ${prefix}ttp Lann ID
+Exemplo : ${prefix}ttp Lann ID
 ➸ *${prefix}tts*
-Suara google contoh : ${prefix}tts id Hallo Ramlan
+Exemplo de voz do Google : ${prefix}tts id Hallo Ramlan
 ➸ *${prefix}toimg*
-Reply sticker yang mau dijadiin image
+Responda ao adesivo que você deseja transformar na imagem
 ➸ *${prefix}nulis*
-Untuk menulis dibuku
+Escrever um livro
 ➸ *${prefix}stalkig*
-Stalking instagram contoh : ${prefix}stalkig iamramlan_
+Exemplo de perseguição no Instagram : ${prefix}stalkig iamramlan_
 ➸ *${prefix}quotes*
-Random quotes
+Citações aleatórias
 ➸ *${prefix}bikinquote*
-Membuat quotes contoh : ${prefix}bikinquote Kamu gay & Ramlan
+Crie citações de exemplo : ${prefix}bikinquote Você é gay e Ramlan
 ➸ *${prefix}play*
-Mendownload lagu dari youtube bisa menggunakan text atau link
+Baixar músicas do YouTube pode usar texto ou links
 ➸ *${prefix}yutubdl*
-Mendownload video dari youtube, gunakan link ya kak
+Baixe vídeos do YouTube, use o link, mana
 ➸ *${prefix}tiktod*
-Mendownload video tiktok, gunakan link kak
+Baixe o vídeo do tiktok, use o link kak
 ➸ *${prefix}hartatahta*
-Membuat lomgo, contoh : ${prefix}hartatahta Nadia
+Faça lomgo, por exemplo: ${prefix}hartatahta Nádia
 ➸ *${prefix}pornhub*
-Membuat logo, contoh : ${prefix}pornhub Ramlan & Hub
-Note : untuk logo maker / image maker jika undefined berarti harus memakai &
+Criação de um logotipo, por exemplo : ${prefix}pornhub Ramlan & Hub
+Note : para o criador de logotipo / criador de imagem se indefinido significa que você deve usar &
 ➸ *${prefix}fitnah*
-Only grup untuk fitnah orang, contoh : ${prefix}fitnah @tagtarget & Hai & Hai juga
+Grupo único para calúnia de gente, por exemplo : ${prefix}fitnah @tagtarget & Oi e oi tambem
 ➸ *${prefix}mutual*
-Gacha nomor yang ada di database / yang menggunakan bot
+Número da Gacha que está no banco de dados / quem usa o bot
          ────────────────
-Note : Sisanya gunain otak kalian aja cape w jelasin :)
+Note : O resto fica para o seu cérebro explicar :)
          ────────────────
-🔰 -----[ *TUMTOR BY RAMLAN ID* ]----- 🔰
+🔰 -----[ *BY Sr.Allison* ]----- 🔰
 `
 }
 
