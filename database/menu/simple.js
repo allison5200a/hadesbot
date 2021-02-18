@@ -1,7 +1,7 @@
 const simple = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, _registered) => {
 	return `🔰 -----[ *SIMPLE MENU* ]----- 🔰
-Hallo, ${pushname} 👋
-Semoga harimu Menyenangkan User, ${sender.split("@")[0]}
+Óla, ${pushname} 👋
+Tenha um ótimo dia, usuário, ${sender.split("@")[0]}
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┃╭───────────────────
 ┃│➸ NAMA : ${pushname}
@@ -9,8 +9,8 @@ Semoga harimu Menyenangkan User, ${sender.split("@")[0]}
 ┃│➸ USER ${botName} : ${_registered.length}
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
-Berikut adalah fitur yang ada pada bot ini!✨
-Jika tidak paham ketik *${prefix}bingungcok*
+Aqui estão os recursos deste bot!✨
+Se você não entendeu, digite: *${prefix}bingungcok*
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┃╭───────────────────
 ┃│➸ *${prefix}sticker*
