@@ -4,7 +4,7 @@ const random = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, 
 Tenha um ótimo dia, usuário, ${sender.split("@")[0]}
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┃╭───────────────────
-┃│➸ NAMA : ${pushname}
+┃│➸ NOME : ${pushname}
 ┃│➸ LEVEL : ${getLevelingLevel(sender)}
 ┃│➸ USER ${botName} : ${_registered.length}
 ┃╰───────────────────
